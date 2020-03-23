@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+
+.write{
+  float: left;
+  margin-right: 1204px;
+}
+.topbar{
+  background-color: cornflowerblue;
+  height: 70px;
+}
+
+.features1{
+  float: left;
+  padding-right: 519px;
+  margin-left: 380px;
+}
+.infosect nav h2,
+.commune h2{
+    margin-left: 670px;
+}
+.collective,
+.commune{
+
+}
+
+footer section:last-of-type {
+  float: left;
+
+  margin-left: 65%
+}
+
+footer section:first-of-type {
+  float: left;
+}
